@@ -1,0 +1,33 @@
+class space
+<button class="button button1">Green</button>
+<button class="button button2">Blue</button>
+
+.button {
+.button1 {
+.button2 {
+
+
+worked in html
+<button onclick="getElementById('hh').style.color = 'red'">
+didn't work in html
+<button onclick="getElementsByTagName("h1")[0].style.fontSize = 'grey'">
+
+document.getElementById('active');
+active.id = 'deactive';
+
+
+
+<h3>👋 Hello World!</h3>
+<p id='active' class="hell"> hihi </p>
+<button onclick='document.getElementsByTagName("h3")[0].style.color = "red"'>button!!!!!</button>
+<input type="button" value="change" onclick='document.getElementsByTagName("h3")[0].style.color = "grey"'>
+document.getElementsByTagName("h3")[0].style.fontSize = "3vw";
+
+console
+active
+active = "<p id='active' class='hll'> hihihihi </p>"
+document.getElementById('active')
+document.getElementsByTagName("h3")
+document.getElementsByTagName("h3")[0].style
+document.getElementsByTagName("p")[0]
+document.getElementsByTagName("p")[0].style.color = 'grey'
